@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Assignments"
+title:  Assignments
 ---
 
 This is the assignments page.

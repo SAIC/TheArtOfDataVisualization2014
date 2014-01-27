@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Syllabus"
+title:  Syllabus
 ---
 
 The Art of Data Visualization

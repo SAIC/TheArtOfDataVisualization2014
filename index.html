@@ -6,8 +6,13 @@ title: The Art of Data Visualization
 <div id="home">
   <h1>Blog Posts</h1>
   <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% for post in site.posts %}	
+	{% assign author = site.authors[post.author] %}
+      <li>
+      	<span>{{ post.date | date_to_string }}</span> &raquo; 
+      	<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> -
+      	{{ author.display_name }}
+      </li>
     {% endfor %}
   </ul>
 </div>
