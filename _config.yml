@@ -2,3 +2,21 @@ name: The Art of Data Visualization
 markdown: redcarpet
 pygments: true
 baseurl: /TheArtOfDataVisualization
+
+authors:
+  bakercp:
+    name: Christopher Baker
+    display_name: Christopher Baker
+    gravatar: 8f6ac7bc0f5c26b87269d442d5339206
+    email: info@christopherbaker.net
+    web: http://christopherbaker.net
+    twitter: bakercp
+    github: bakercp
+  garhodes:
+    name: Alan Rhodes
+    display_name: Alan Rhodes
+    gravatar: 
+    email: garhodes@GARhodes.com
+    web: http://garhodes.com/
+    twitter: garhodes
+    github: garhodes
