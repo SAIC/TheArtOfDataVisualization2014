@@ -2,6 +2,7 @@ name: The Art of Data Visualization
 markdown: redcarpet
 pygments: true
 baseurl: /TheArtOfDataVisualization
+description: The Art of Data Visualization
 
 authors:
   bakercp:
