@@ -1,3 +1,4 @@
 name: The Art of Data Visualization
 markdown: redcarpet
 pygments: true
+baseurl: /TheArtOfDataVisualization
