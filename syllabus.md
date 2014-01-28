@@ -5,7 +5,7 @@ title:  Syllabus
 
 # The Art of Data Visualization <small>VCD / ATS: 3032</small>
 # Spring, 2014 <small>Jan 28 — May 6, 2014, Tuesdays  9:00 AM - 4:00 PM, MacLean 917
-# Instructors: [Alan Rhodes](grhodes@saic.edu) & [Christopher Baker](cbaker2@saic.edu)
+# Instructors: [Alan Rhodes](mailto:grhodes@saic.edu) & [Christopher Baker](mailto:cbaker2@saic.edu)
 
 > In a studio workshop environment, an interdisciplinary co-taught team will focus on the design, development and creation of data visualization projects. Projects will be organized around conceptual areas including: Maximal & Cryptic Data (visualizing the impossible, invisible and incomprehensible), "Useful" Data (examine the idea of "useful" vs "not useful" data visualizations), Process Data (such as crowdsourcing, online collaboration and the work of artists like Aaron Koblin), Provocative Data (data and data gathering as both material and conceptual artistic content), Material Data (using data to inspire and generate abstract visual or sculptural forms), Translatable Data (translating data between medium(s) e.g. time to space, space to time, data to sound, sound to data, etc), Lonely and Hidden Data (learning what data to ignore and how to reveal hidden data). Contemporary platforms will be workshopped; these may include: Processing, D3 (http://d3js.org/), RGB+D, ManyEyes, Mondrian, ImageJ, and ImagePlot.
 
