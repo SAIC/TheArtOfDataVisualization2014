@@ -20,7 +20,8 @@ As a data artist, you will use this data to create and inspire a self portrait. 
 - The "data visualization" can take any form as long as it directly engages the numerical data in some way.
 - You will present your work to the class next week.
 
-Your data can be found [here]({{ site.baseurl }}/data/SelfPortrait.tsv).
+Your data can be found [here]({{ site.baseurl }}/data/SelfPortrait.tsv) or [here]({{ site.baseurl }}/data/SelfPortrait.xlsx).
+
 
 ### Part 2
 
