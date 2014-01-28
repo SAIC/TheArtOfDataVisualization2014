@@ -14,7 +14,7 @@ I'm [Andrew Monks](http://monks.co/). This is a new post on the Art Of Data Visu
 
 {% for post in site.posts %}
 
--	[{{ post.title}}]({{ post.url }})
+-	[{{ post.title}}]({{ site.baseurl }}{{ post.url }})
 
 {% endfor %}
 
