@@ -1,14 +1,13 @@
 ---
-layout: default
-title: Home
+layout: page
+title: Posts
 ---
 
-<h1>Updates</h1>
 <ul class="list-unstyled">
 	{% for post in site.posts %}	
 	{% assign author = site.authors[post.author] %}
   	<li>
-  		{{ post.date | date_to_string }} <em>{{ author.display_name }}</em> :
+  		{{ post.date | date_to_string }} <img class="img-circle" src="http://www.gravatar.com/avatar/{{ author.gravatar }}?s=30&d=identicon"/> :
   		<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
   	</li>
     {% endfor %}

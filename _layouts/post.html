@@ -4,10 +4,12 @@ layout: default
 
 {% assign author = site.authors[page.author] %}
 
-<h1>{{ page.title }}</h1>
-<div>
-	{{ page.date | date_to_string }} - {{ author.display_name }}
+<div class="page-header">
+  <h1>
+  	{{ page.title }} <small>{{ page.date | date_to_string }} - {{ author.display_name }}</small>
+  </h1>
 </div>
+
 <div>
 	{{ content }}
 </div>

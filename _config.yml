@@ -4,6 +4,7 @@ pygments: true
 baseurl: /TheArtOfDataVisualization
 description: The Art of Data Visualization
 
+timezone: America/Chicago
 
 authors:
   bakercp:
