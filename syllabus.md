@@ -9,9 +9,9 @@ title:  Syllabus
 
 > In a studio workshop environment, an interdisciplinary co-taught team will focus on the design, development and creation of data visualization projects. Projects will be organized around conceptual areas including: Maximal & Cryptic Data (visualizing the impossible, invisible and incomprehensible), "Useful" Data (examine the idea of "useful" vs "not useful" data visualizations), Process Data (such as crowdsourcing, online collaboration and the work of artists like Aaron Koblin), Provocative Data (data and data gathering as both material and conceptual artistic content), Material Data (using data to inspire and generate abstract visual or sculptural forms), Translatable Data (translating data between medium(s) e.g. time to space, space to time, data to sound, sound to data, etc), Lonely and Hidden Data (learning what data to ignore and how to reveal hidden data). Contemporary platforms will be workshopped; these may include: Processing, D3 (http://d3js.org/), RGB+D, ManyEyes, Mondrian, ImageJ, and ImagePlot.
 
->Students do not have to have had experience with specific coding; the course will seek to create a studio environment in which different techniques and backgrounds can be used to realize projects and, as well, teams of students with diverse skills formed.  But, that said, a basic familiarity with the coding process (Java, HTML, other) will be very advantageous.
+> Students do not have to have had experience with specific coding; the course will seek to create a studio environment in which different techniques and backgrounds can be used to realize projects and, as well, teams of students with diverse skills formed.  But, that said, a basic familiarity with the coding process (Java, HTML, other) will be very advantageous.
 
->The instructional team, Christopher Baker (ATS) and Alan Rhodes (VCD), will draw on a diversity of skills and backgrounds in technology, design, video installation, interactive media, gallery , public, and internet art. 
+> The instructional team, Christopher Baker (ATS) and Alan Rhodes (VCD), will draw on a diversity of skills and backgrounds in technology, design, video installation, interactive media, gallery, public, and internet art. 
 
 ## Schedule <small>Always, forever in progress...</small>
 
