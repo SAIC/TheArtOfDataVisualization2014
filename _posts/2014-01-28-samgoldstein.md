@@ -10,14 +10,15 @@ helo is me<br />
 this is my content<br />
 it's a ghost<br />
 in a haunted post<br />
-       .-.<br />
-      ( " )<br />
-   /\_.' '._/\<br />
-   |         |<br />
-    \       /<br />
-     \    /`<br />
-   (__)  /<br />
-   `.__.'<br />
+<pre>
+       .-.
+      ( " )
+   /\_.' '._/\
+   |         |
+    \       /
+     \    /`
+   (__)  /
+   `.__.'</pre>
    gotcha<br />
    <br />
 -Sam Goldstein
