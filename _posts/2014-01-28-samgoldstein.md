@@ -6,18 +6,18 @@ categories: post
 author: qwentl
 ---
 
-helo is me
-this is my content
-it's a ghost
-in a haunted post
-       .-.
-      ( " )
-   /\_.' '._/\
-   |         |
-    \       /
-     \    /`
-   (__)  /
-   `.__.'
-   gotcha
-   
+helo is me<br />
+this is my content<br />
+it's a ghost<br />
+in a haunted post<br />
+       .-.<br />
+      ( " )<br />
+   /\_.' '._/\<br />
+   |         |<br />
+    \       /<br />
+     \    /`<br />
+   (__)  /<br />
+   `.__.'<br />
+   gotcha<br />
+   <br />
 -Sam Goldstein
