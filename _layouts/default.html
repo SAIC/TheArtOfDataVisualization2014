@@ -12,9 +12,10 @@
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
         <!-- Bootstrap styles -->
-        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.0.3/readable/bootstrap.min.css">
+        
+        <link rel="stylesheet" href="{{ site.assets.css.bootstrap }}">
         <!-- FontAwesome -->
-        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+        <link rel="stylesheet" href="{{ site.assets.css.fontawesome }}">
     </head>
     <body>
         <nav class="navbar navbar-default" role="navigation">
@@ -32,8 +33,8 @@
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-              <li><a href="{{ site.baseurl }}/syllabus">Syllabus</a></li>
-              <li><a href="{{ site.baseurl }}/assignments">Assignments</a></li>
+              <li><a href="/syllabus">Syllabus</a></li>
+              <li><a href="/assignments">Assignments</a></li>
             </ul>
           </div><!-- /.navbar-collapse -->
         </nav>
@@ -51,8 +52,8 @@
         </div>
 
         <!-- jQuery -->
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script src="{{ site.assets.js.jquery }}"></script>
         <!-- Bootstrap -->
-        <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+        <script src="{{ site.assets.js.bootstrap }}"></script>
     </body>
 </html>
