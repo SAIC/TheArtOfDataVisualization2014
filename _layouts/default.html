@@ -12,13 +12,9 @@
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
         <!-- Bootstrap styles -->
-        <link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.0.3/readable/bootstrap.min.css">
         <!-- FontAwesome -->
-        <link rel="stylesheet" href="{{ site.baseurl }}/css/font-awesome.min.css">
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
-        <!-- Generic page styles -->
-        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
     </head>
     <body>
         <nav class="navbar navbar-default" role="navigation">
@@ -30,7 +26,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="{{ site.baseurl }}">The Art of Data Visualization</a>
+            <a class="navbar-brand" href="{{ site.baseurl }}">{{ site.name }}</a>
           </div>
 
           <!-- Collect the nav links, forms, and other content for toggling -->
@@ -49,11 +45,14 @@
         <div class="navbar navbar-default">
             <div class="container">
                 <p class="navbar-text">
-                    The Art of Data Visualization
+                    {{ site.name }}
                 </p>
             </div>
         </div>
-        <script src="./js/jquery-1.11.0.min.js"></script>
-        <script src="./js/bootstrap.min.js"></script>
+
+        <!-- jQuery -->
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <!-- Bootstrap -->
+        <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
     </body>
 </html>
