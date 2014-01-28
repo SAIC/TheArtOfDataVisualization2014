@@ -6,10 +6,11 @@ categories: post
 author: qwentl
 ---
 
-helo is me
-this is my content
-it's a ghost
-in a haunted post
+helo is me<br />
+this is my content<br />
+it's a ghost<br />
+in a haunted post<br />
+<pre>
        .-.
       ( " )
    /\_.' '._/\
@@ -17,7 +18,7 @@ in a haunted post
     \       /
      \    /`
    (__)  /
-   `.__.'
-   gotcha
-   
+   `.__.'</pre>
+   gotcha<br />
+   <br />
 -Sam Goldstein
