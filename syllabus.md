@@ -108,5 +108,3 @@ by the end of class
 
 ### Week 14 <small>6-May-14</small>
 - Final presentations & Critiques
-
-

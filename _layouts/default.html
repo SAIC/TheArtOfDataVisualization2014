@@ -1,59 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <!-- Force latest IE rendering engine or ChromeFrame if installed -->
-        <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->
-        <meta charset="utf-8">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="{{ page.description }}">
-        <!-- favicon -->
-        <link rel="shortcut icon" href="{{ site.baseurl }}/img/favicon.ico">
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
-        <!-- Bootstrap styles -->
+{% include header.html %}
+{% include navigation.html %}
 
-        <link rel="stylesheet" href="{{ site.assets.css.bootstrap }}">
-        <!-- FontAwesome -->
-        <link rel="stylesheet" href="{{ site.assets.css.fontawesome }}">
-    </head>
-    <body>
-        <nav class="navbar navbar-default" role="navigation">
-          <!-- Brand and toggle get grouped for better mobile display -->
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-              <span class="sr-only">Toggle Navigation</span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="{{ site.baseurl }}">{{ site.name }}</a>
-          </div>
+<div class="container">
+  {{ content }}
+</div>
 
-          <!-- Collect the nav links, forms, and other content for toggling -->
-          <div class="collapse navbar-collapse">
-            <ul class="nav navbar-nav">
-              <li><a href="{{ site.baseurl }}/syllabus">Syllabus</a></li>
-              <li><a href="{{ site.baseurl }}/assignments">Assignments</a></li>
-            </ul>
-          </div><!-- /.navbar-collapse -->
-        </nav>
-
-        <div class="container">
-          {{ content }}
-        </div>
-
-        <div class="navbar navbar-default">
-            <div class="container">
-                <p class="navbar-text">
-                    {{ site.name }} <small>VCD / ATS: 3032, Tuesdays 9:00 AM - 4:00 PM</small>
-                </p>
-            </div>
-        </div>
-
-        <!-- jQuery -->
-        <script src="{{ site.assets.js.jquery }}"></script>
-        <!-- Bootstrap -->
-        <script src="{{ site.assets.js.bootstrap }}"></script>
-    </body>
-</html>
+{% include footer.html %}

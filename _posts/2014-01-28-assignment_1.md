@@ -3,6 +3,8 @@ layout:     assignment
 categories: assignment
 title:      Assignment 1
 subtitle:   Data Memory Self Portrait
+author:     bakercp
+date:       2014-01-28 00:00:00
 due:        2014-02-04
 ---
 
@@ -21,7 +23,6 @@ As a data artist, you will use this data to create and inspire a self portrait. 
 - You will present your work to the class next week.
 
 Your data can be found [here]({{ site.baseurl }}/data/SelfPortrait.tsv) or [here]({{ site.baseurl }}/data/SelfPortrait.xlsx).
-
 
 ### Part 2
 

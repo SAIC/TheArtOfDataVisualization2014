@@ -10,7 +10,8 @@ helo is me<br />
 this is my content<br />
 it's a ghost<br />
 in a haunted post<br />
-<pre>
+
+```
        .-.
       ( " )
    /\_.' '._/\
@@ -18,7 +19,9 @@ in a haunted post<br />
     \       /
      \    /`
    (__)  /
-   `.__.'</pre>
+   `.__.'
+```
+
    gotcha<br />
    <br />
 -Sam Goldstein
