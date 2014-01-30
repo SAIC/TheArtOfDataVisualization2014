@@ -1,16 +1,16 @@
-css:
-    syntax: /assets/css/syntax.css
-    bootstrap: /assets/css/journal.bootstrap.min.css
-    fontawesome: /assets/css/font-awesome.min.css
-js:
-    jquery: /assets/js/jquery-1.11.0.min.js
-    bootstrap: /assets/js/bootstrap.min.js
-    d3: /assets/js/d3.v3.min.js
-
 # css:
-#     bootstrap: //netdna.bootstrapcdn.com/bootswatch/3.0.3/readable/bootstrap.min.css
-#     fontawesome: //netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css
+#     syntax: /assets/css/syntax.css
+#     bootstrap: /assets/css/journal.bootstrap.min.css
+#     fontawesome: /assets/css/font-awesome.min.css
 # js:
-#     jquery: //ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
-#     bootstrap: //netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js
-#     d3: //cdnjs.cloudflare.com/ajax/libs/d3/3.4.1/d3.min.js
+#     jquery: /assets/js/jquery-1.11.0.min.js
+#     bootstrap: /assets/js/bootstrap.min.js
+#     d3: /assets/js/d3.v3.min.js
+
+css:
+    bootstrap: //netdna.bootstrapcdn.com/bootswatch/3.0.3/readable/bootstrap.min.css
+    fontawesome: //netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css
+js:
+    jquery: //ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
+    bootstrap: //netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js
+    d3: //cdnjs.cloudflare.com/ajax/libs/d3/3.4.1/d3.min.js
