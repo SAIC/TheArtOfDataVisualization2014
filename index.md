@@ -4,7 +4,7 @@ title:  Posts
 ---
 
 <ul class="list-unstyled">
-    {% for post in site.posts %}	
+    {% for post in site.posts %}
     {% assign author = site.authors[post.author] %}
     <!-- <img class="img-circle" src="http://www.gravatar.com/avatar/{{ author.gravatar }}?s=30&d=identicon"/> -->
     <li>
