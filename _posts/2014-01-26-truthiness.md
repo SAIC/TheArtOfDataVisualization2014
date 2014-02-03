@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  \"Truthiness\" Defined
+title:  "Truthiness" Defined
 date:   2014-02-03 00:00:00
 categories: post
 author: bakercp
