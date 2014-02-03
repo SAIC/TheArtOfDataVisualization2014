@@ -10,7 +10,7 @@ title:  Posts
     <li>
         {{ post.date | date_to_string }} - {{ author.display_name }} :
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        <small>{{ post.tags | array_to_sentence_string }}</small>
+        <small><em>{{ post.tags | array_to_sentence_string }}</em></small>
     </li>
     {% endfor %}
 </ul>
