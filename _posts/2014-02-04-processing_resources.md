@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How to Learn Processing"
+date:   2014-02-03 00:00:00
 categories: notes
 author: bakercp
 ---
