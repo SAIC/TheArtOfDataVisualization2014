@@ -55,13 +55,13 @@ title:  Syllabus
 			- Distributions
 				- Histograms
 				- Center
-					- Mean
-					- Median
-					- Mode
-					- Expected Value
+				- Mean
+				- Median
+				- Mode
+				- Expected Value
 				- Spread
-					- Variance
-					- Standard Deviation
+				- Variance
+				- Standard Deviation
 		- etc.
 - Image Processing: How is it sampled?  What Feature is chosen?
 - Students plug in data
