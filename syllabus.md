@@ -29,16 +29,40 @@ title:  Syllabus
 - Project 1 Assigned
 
 ### Week 2 <small>4-Feb-14</small>
-- In class individual project
-- Output data and present it
-- First half of class
 - Project 1 Presentations
-- Second half of class
-- Take someone else's data and make a new portrait of that person
-
+	- "How do we critique these?"
+	- Review Critique Terms List
+- Github / Blog Review
+- Mini [Markdown](https://help.github.com/articles/github-flavored-markdown) Tutorial 
+- YAIP - Yet Another Introduction to Processing
+	- Data formats.
+	- Data parsing.
+	- Data structures.
+	- Data analysis.
+	- Output to PDF / Vector.
+- In class work with simple structured data set.
 
 ### Week 3 <small>11-Feb-14</small>
-- Data Collection / Sampling (in class project) 
+- Data Collection / Sampling
+	- Basic Probability / Statistics Review
+		- Probability
+			- What is Probability?
+			- "Law of Large Numbers"
+		- Statistics
+			- What is a "statistic"?
+			- Population vs. Sample
+			- Descriptiove vs. Inferential
+			- Distributions
+				- Histograms
+				- Center
+					- Mean
+					- Median
+					- Mode
+					- Expected Value
+				- Spread
+					- Variance
+					- Standard Deviation
+		- etc.
 - Image Processing: How is it sampled?  What Feature is chosen?
 - Students plug in data
 
