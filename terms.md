@@ -5,6 +5,8 @@ title:  Terms
 
 > _DISCLAIMER: This is a collection of terms and definitions generated during class and is to be used for in class conversations only.  Students are also permitted to use these definitions in casual conversation when in a Seattle coffee shop in the late 1980s.  Use outside of these contexts is not recommended and will void your warranty._
 
+### Wüsching
+- Movement real time, it's like wooshy.
 
 ### Ideology
 - [Unknown, Knowns](http://www.youtube.com/watch?v=GiPe1OiKQuk)
