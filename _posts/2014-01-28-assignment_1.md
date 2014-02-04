@@ -28,3 +28,8 @@ Your data can be found [here]({{ site.baseurl }}/data/SelfPortrait.tsv) or [here
 
 - Read "On Memory (Electronic or Otherwise)", Vilém Flusser, Leonardo. Vol. 23. No 4 (1990. pp 397-399)
 - Post a short response on the class blog.  
+
+### Completed Projects
+
+
+
