@@ -1,4 +1,7 @@
-
+---
+layout: page
+title:  Terms
+---
 
 - "Feels"
     - 
@@ -10,7 +13,7 @@
 - Ideology
     - [Unknown, Knowns](http://www.youtube.com/watch?v=GiPe1OiKQuk)
     - "Unthinking" (Too broad for Alan)
-    - Something that is assumed before the disccusion begins
+    - Something that is assumed before the discussion begins
     
 - Entropy
     - The 2nd law of thermodynamics
@@ -29,7 +32,7 @@
     - Coffee shop usage, in contrast to Postmodern idea that things just "go".  Not up or better ... just going.
     - y = m * x + b (m > 0) <= hegel
 
-- Aesthethic
+- Aesthetic
     - (See ideology)
     - Aesthetic arises out of ... um.
     - "The Packaging"
@@ -51,7 +54,7 @@
      
 - Material
     - What is the "material here"?
-    - What is the "material" of photoraphy?
+    - What is the "material" of photography?
     - What is the "medium" ... uh mixed.
 
 - Ground (against Figure) - framing
@@ -59,7 +62,7 @@
     - Negative space
     - The aesthetic context
     - The setting
-    - How it is situatued
+    - How it is situated
     - Background 
 
 - History
