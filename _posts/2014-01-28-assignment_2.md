@@ -12,3 +12,8 @@ published:  false
 ### Part 1
 
 TBA
+
+### Part 2
+
+- Read TBA
+- Post a short response on the class blog.  
