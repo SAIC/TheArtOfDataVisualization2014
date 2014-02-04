@@ -14,3 +14,4 @@ js:
     jquery: //ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
     bootstrap: //netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js
     d3: //cdnjs.cloudflare.com/ajax/libs/d3/3.4.1/d3.min.js
+    p5: /TheArtOfDataVisualization/assets/js/processing-1.4.1.js
