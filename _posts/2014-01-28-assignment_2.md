@@ -3,17 +3,13 @@ layout:     assignment
 categories: assignment
 title:      Assignment 2
 subtitle:   The Second Assignment
-author:     bakercp
+author:     garhodes
 date:       2014-02-04 00:00:00
 due:        2014-02-11
-published:  false
 ---
 
-### Part 1
+###For next week
 
-TBA
+</br></br>**Post a photo** (from online or from the world around you), that shows an example of 'truthiness' or 'facty-ness' or 'science-iness' ... that is, things presenting themselves as objective truth through their aesthetics.</br></br> Use Chris' example post, 'CatBall', to figure out how to post an image and give it a caption... use the reading below to inform the idea of captions..</br></br></br>
 
-### Part 2
-
-- Read TBA
-- Post a short response on the class blog.  
+**Read the short essay** shared with you on Google Drive-- Roland Barthes, The Plates of the Encyclopedia.  What we are looking for are conceptual parallels between photography (a factual analogue medium) and DataVis.</br></br></br>
