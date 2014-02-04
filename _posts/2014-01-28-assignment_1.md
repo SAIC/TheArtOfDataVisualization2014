@@ -11,7 +11,7 @@ due:        2014-02-04
 ### Part 1
 Is it art or is it science?  What is the difference between using data as inspiration and using data as repeatable "true" facts?  How do we interpret data to best fit our understanding of the world and our personal histories?  How do we reinterpret data and find correlations that may or may not be there to suit our purposes?  How do we use data to augment or replace our memories?  How does data allow us to forget?
 
-In this assignment, you will be given a set of "true" data.  The data consists of "real" data measured monthly betwen 1984 and 2013.  The data might represent natural or mathematical phenomena, economic variables, or something else completely.  For many of you, these date ranges correspond to the course of your own lives.  Thus, in some sense, this "real" data has shaped your personal development and story.  The data has been "normalized", placing it in a range from 0-1 to make it easier to use, but trends should be obvious.
+In this assignment, you will be given a set of "true" data.  The data consists of "real" data measured monthly between 1984 and 2013.  The data might represent natural or mathematical phenomena, economic variables, or something else completely.  For many of you, these date ranges correspond to the course of your own lives.  Thus, in some sense, this "real" data has shaped your personal development and story.  The data has been "normalized", placing it in a range from 0-1 to make it easier to use, but trends should be obvious.
 
 As a data artist, you will use this data to create and inspire a self portrait.  The self-portrait may take the form of a print, a sculpture, a digitally fabricated object or an interactive experience.  The rules are as follows:
 
