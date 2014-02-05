@@ -13,12 +13,19 @@ layout: default
 <div>
 	{{ content }}
 </div>
-
-
+<br/>
+<em>If the sketch does not render, it is likely that the features in use are not compatible with Processing.js.  See the Web Browser Console for errors.</em>
+<br/>
 <script src="{{site.data.assets.js.p5}}"></script>
 <canvas data-processing-sources="{{ site.baseurl }}{{ page.sketch }}"></canvas>
 
-<a href="{{ site.baseurl }}{{ page.sketch }}">Source</a>
+<br/>
+<br/>
+
+<a href="{{ site.baseurl }}{{ page.sketch }}">Source Code</a>
+
+<br/>
+<br/>
 
 {% highlight java linenos %}
 Code will show up here soon automatically I hope.
