@@ -14,6 +14,6 @@ Here are two articles that really exemplify Subjectivity and Objectivity.
 Will PDf embed?
 
 
-![Fossils of the Future](/TheArtOfDataVisualization/people/garhodes/img/FossilsOfTheFuture "The ultimate Objective... Future Paleontology")
+/TheArtOfDataVisualization/people/garhodes/img/FossilsOfTheFuture 
+The ultimate Objective... Future Paleontology...
 
-![Fossils of the Future](/TheArtOfDataVisualization/people/garhodes/img/FossilsOfTheFuture "The ultimate Objective... Future Paleontology")
