@@ -11,9 +11,11 @@ author: garhodes
 
 Here are two articles that really exemplify Subjectivity and Objectivity.
 
-Will PDf embed?
+</br></br></br>
+The ultimate Objective... 
+<a href="http://saic.github.io/TheArtOfDataVisualization/people/garhodes/img/FossilsOfTheFuture.pdf" target="_new">Future Paleontology</a></br>
 
 
-/TheArtOfDataVisualization/people/garhodes/img/FossilsOfTheFuture 
-The ultimate Objective... Future Paleontology...
+
+
 
