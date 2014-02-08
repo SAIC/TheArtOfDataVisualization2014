@@ -9,7 +9,7 @@ author: garhodes
 
 
 
-From the godhead of 'truthiness' a TSA image which makes helps make their policies seem rational... can they really know what it is to be a bat?</br></br>
+From the godhead of 'truthiness' a TSA image which helps make their policies seem rational... can they really know what it is to be a bat?</br></br>
 
 
 
