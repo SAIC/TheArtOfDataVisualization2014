@@ -23,9 +23,13 @@ We will be using [Processing][1] to develop prototypes and learn programming con
 -  [Processing Examples][5]
     - The standard [Processing][1] examples.  Exploring examples is a great way to learn once you understand the basics.
 
+### Inter-fancy-vanced
+- [Generative Design][6], by Hartmut Bohnacker, Benedikt Groß & Julia Laub. Claudius Lazzeroni, Ed.
+    - Offers a range of documented examples. Code is all available online, but the book itself is also a great resource.
 
 [1]: http://processing.org/  "Processing"
 [2]: http://hello.processing.org/  "Hello Processing"
 [3]: http://natureofcode.com/ "The Nature of Code"
 [4]: http://processing.org/tutorials/
 [5]: https://www.khanacademy.org/cs/programming
+[6]: http://www.generative-gestaltung.de/code "Generative Design"
