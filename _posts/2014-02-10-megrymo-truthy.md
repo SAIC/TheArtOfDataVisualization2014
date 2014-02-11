@@ -8,8 +8,9 @@ author: megrymo
 
 <img src="http://www.quitemice.com/truthy2.png">
 <br>
+<br>
 <img src="http://www.quitemice.com/truthy3.png">
 <br>
-
+<br>
 
 <div class="nostyle">The <a href="http://www.politifact.com/">politifact</a> truth-o-meter has some things to say about who is how truthy</div>
