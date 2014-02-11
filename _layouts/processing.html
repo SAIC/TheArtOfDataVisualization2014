@@ -28,6 +28,14 @@ layout: default
 <br/>
 <br/>
 
-{% highlight java linenos %}
-Code will show up here soon automatically I hope.
-{% endhighlight %}
+<pre id="sourcecode">
+</pre>
+
+<script type="text/javascript">
+$.get("{{ site.baseurl }}{{ page.sketch }}",
+	function( data ) {
+	  $( "#sourcecode" ).html( data );
+ 	});
+</script>
+
+
