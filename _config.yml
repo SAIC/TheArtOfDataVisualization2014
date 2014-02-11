@@ -2,46 +2,8 @@ name: The Art of Data Visualization
 markdown: redcarpet
 pygments: true
 baseurl: /TheArtOfDataVisualization
-# baseurl: ./
+#baseurl: ./
+url: https://github.com/SAIC/TheArtOfDataVisualization
 description: The Art of Data Visualization
 timezone: America/Chicago
 
-
-# A list of all authors.
-authors:
-  bakercp:
-    role: Instructor
-    name: Christopher Baker
-    display_name: Christopher Baker
-    gravatar: 8f6ac7bc0f5c26b87269d442d5339206
-    email: info@christopherbaker.net
-    web: http://christopherbaker.net
-    twitter: bakercp
-    github: bakercp
-  garhodes:
-    role: Instructor
-    name: Alan Rhodes
-    display_name: Alan Rhodes
-    gravatar: 
-    email: garhodes@GARhodes.com
-    web: http://garhodes.com/
-    twitter: garhodes
-    github: garhodes
-
-# assets:
-#     css:
-#         bootstrap: /css/bootstrap.min.css
-#         fontawesome: /css/font-awesome.min.css
-#     js:
-#         jquery: /js/jquery-1.11.0.min.js
-#         bootstrap: /js/bootstrap.min.js
-#         d3: //cdnjs.cloudflare.com/ajax/libs/d3/3.4.1/d3.min.js
-
-assets:
-    css:
-        bootstrap: //netdna.bootstrapcdn.com/bootswatch/3.0.3/readable/bootstrap.min.css
-        fontawesome: //netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css
-    js:
-        jquery: //ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
-        bootstrap: //netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js
-        d3: //cdnjs.cloudflare.com/ajax/libs/d3/3.4.1/d3.min.js

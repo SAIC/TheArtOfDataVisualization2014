@@ -12,10 +12,10 @@ I'm [Andrew Monks](http://monks.co/). This is a new post on the Art Of Data Visu
 
 ## Here are some other posts.
 
-<ul>
 {% for post in site.posts %}
-<li>
-  <a href="{{ post.url }}">{{ post.title }}</a>
-</li>
+
+-	[{{ post.title}}]({{ site.baseurl }}{{ post.url }})
+
 {% endfor %}
-</ul>
+
+## That's all. Thanks, everyone!

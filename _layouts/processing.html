@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{% assign author = site.data.members %}
+
+<div class="page-header">
+  <h1>
+  	{{ page.title }} <small>{{ page.date | date_to_string }} - {{ author.display_name }}{{ page.tags | array_to_sentence_string }}</small>
+  </h1>
+</div>
+
+<div>
+	{{ content }}
+</div>
+<br/>
+<em>If the sketch does not render, it is likely that the features in use are not compatible with Processing.js.  See the Web Browser Console for errors.</em>
+<br/>
+<br/>
+<script src="{{site.data.assets.js.p5}}"></script>
+<canvas data-processing-sources="{{ site.baseurl }}{{ page.sketch }}"></canvas>
+
+<br/>
+<br/>
+
+<a href="{{ site.baseurl }}{{ page.sketch }}">Source Code</a>
+
+<br/>
+<br/>
+
+{% highlight java linenos %}
+Code will show up here soon automatically I hope.
+{% endhighlight %}
