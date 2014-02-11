@@ -9,4 +9,4 @@ author: megrymo
 
 ufo test
 
-![UFO](/TheArtofDataVisualization/people/megrymo/ufo2/ufo.png)
+![UFO](/TheArtOfDataVisualization/people/megrymo/ufo2/ufo.png)
