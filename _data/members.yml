@@ -33,6 +33,10 @@
     role: Student
     name: Andrew Monks
     display_name: Andrew Monks
+    email: a@monks.co
+    web: http://monks.co
+    twitter: xmonksx
+    github: amonks
 
 -   username: hs1399
     role: Student
