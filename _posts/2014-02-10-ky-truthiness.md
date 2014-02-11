@@ -1,0 +1,1 @@
+![how we evolve](/TheArtOfDataVisualization/people/kristen_youngman/img/stage-of-mind-room-jeeyoung-lee-2.jpg "immense progress is typically made by hiding for long periods of time and sleeping")
