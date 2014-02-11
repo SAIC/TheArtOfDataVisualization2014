@@ -1,7 +1,7 @@
 ---
 layout: processing
 sketch: /people/manzalena/processing/electricityAccess.pde
-title:  Processing Test
+title:  Project 2: electricity access
 date:   2014-02-11 23:00:00
 categories: project2
 author: manzalena
