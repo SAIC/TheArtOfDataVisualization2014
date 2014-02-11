@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 2 Notes"
+title:  "Week2 - Notes on Flusser's On Memory"
 date:   2014-02-04 00:00:00
 categories: post
 author: garhodes
