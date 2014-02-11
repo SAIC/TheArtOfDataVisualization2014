@@ -9,4 +9,4 @@ author: mperez4
 
 Data from 1983-2012.
 
-![Alt text](people/mperez4/Assignment2/img/ctaAnnualCost.png)
+![Alt text](/people/mperez4/Assignment2/img/ctaAnnualCost.png)
