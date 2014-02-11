@@ -3,7 +3,7 @@ layout: post
 title:  "Shu-example of truthiness"
 date:   2014-02-10 00:00:00
 categories: post
-author: shu
+author: hs1399
 ---
 
 
