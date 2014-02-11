@@ -6,9 +6,10 @@ categories: post
 author: megrymo
 ---
 
+<img src="http://www.quitemice.com/truthy2.png">
+<br>
+<img src="http://www.quitemice.com/truthy3.png">
+<br>
 
-![Truth-o-Meter](/TheArtofDataVisualization/people/megrymo/img/truthy2.png "pants on fire!")
 
-![Truth-o-Meter](/TheArtofDataVisualization/people/megrymo/img/truthy3.png)
-
-The politifact.com truth-o-meter has something to say about who is how truthy
+<div class="nostyle">The <a href="http://www.politifact.com/">politifact</a> truth-o-meter has some things to say about who is how truthy</div>
