@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Truthiness of Potato Useage -Sam G"
+title:  "Truthiness of Potato Usage - Sam G"
 date:   2014-02-10 00:00:00
 categories: post
 author: qwentl
