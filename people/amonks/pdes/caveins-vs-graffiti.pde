@@ -21,7 +21,7 @@ void setup()
 
   // Load our inverted table data.  The header, tsv flags tell 
   // loadTable() how to interpret the data.
-  table = loadTable("transposed_caveins-graffiti.tsv", "tsv");
+  table = loadTable("caveins-vs-graffiti.tsv", "tsv");
 
 //Cycle through all rows
   for (int r = 0; r < 2; ++r)
