@@ -32,7 +32,7 @@ layout: default
 </pre>
 
 <script type="text/javascript">
-$.get({{ site.baseurl }}{{ page.sketch }},
+$.get("{{ site.baseurl }}{{ page.sketch }}",
 	function( data ) {
 	  $( "#sourcecode" ).html( data );
  	});
