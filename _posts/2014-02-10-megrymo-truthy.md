@@ -7,5 +7,8 @@ author: megrymo
 ---
 
 
-<img src="http://www.independent.co.uk/incoming/article9067940.ece/ALTERNATES/w620/syriav2.jpg">
-<a href="http://www.independent.co.uk/news/world/middle-east/heartbreaking-syria-orphan-photo-wasnt-taken-in-syria-and-not-of-orphan-9067956.html">truthiness?</a>
+![Truth-o-Meter](/TheArtofDataVisualization/people/megrymo/img/truthy2.png "pants on fire!")
+
+![Truth-o-Meter](/TheArtofDataVisualization/people/megrymo/img/truthy3.png)
+
+The politifact.com truth-o-meter has something to say about who is how truthy
