@@ -7,6 +7,6 @@ categories: project2
 author: mperez4
 ---
 
-Data from 1983-2012.
+Data from 1983-2012. 
 
 ![image](../people/mperez4/img/ctaAnnualCost.png)
