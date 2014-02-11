@@ -11,6 +11,7 @@ css:
     bootstrap: //netdna.bootstrapcdn.com/bootswatch/3.0.3/readable/bootstrap.min.css
     fontawesome: //netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css
 js:
+    mustache: //cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js
     jquery: //ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
     bootstrap: //netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js
     d3: //cdnjs.cloudflare.com/ajax/libs/d3/3.4.1/d3.min.js
