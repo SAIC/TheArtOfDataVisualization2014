@@ -1,8 +1,8 @@
 ---
 layout: processing
-sketch: /people/manzalena/processing/electricityAccess/electricityAccess.pde
+sketch: /people/manzalena/electricityAccess/electricityAccess.pde
 title:  Project electricity access
-date:   2014-02-11 
+date:   2014-02-11 13:00:00
 categories: project2
 author: manzalena
 ---
