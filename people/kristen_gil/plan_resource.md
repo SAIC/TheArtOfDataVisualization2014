@@ -39,6 +39,8 @@ thoese two data sets doesn't get along each other... :(
 
 I'm thinking about chicagoan's average income or broken window report kinda stuff to correspond with the sexoffender one.
 
+e.g) https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2
+
 or do you have any better idea?
 
 let me know, I will keep looking for interesting data sets.
