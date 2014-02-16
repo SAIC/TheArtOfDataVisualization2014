@@ -15,4 +15,5 @@ Press ↑ to zoom in, ↓ to zoom out, ← and → to rotate.
 
 Data resource: United Nations Database.
 
+</br></br>[Zipfile download] 
 (http://saic.github.io/TheArtOfDataVisualization/people/junwang/project2/GDP_visualization.zip)
