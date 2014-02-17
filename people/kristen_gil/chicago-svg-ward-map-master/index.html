@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Chicago SVG Ward Map</title>
+        <meta name="description" content="A simple SVG map of the wards of Chicago. Includes sample code to use in any web site.">
+        <meta name="viewport" content="width=device-width">
+
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <style>
+            body {
+                padding-top: 60px;
+                padding-bottom: 40px;
+            }
+        </style>
+        <link rel="stylesheet" href="css/bootstrap-responsive.min.css">
+        <link rel="stylesheet" href="css/main.css">
+
+        <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+
+
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="navbar-inner">
+                <div class="container">
+                    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </a>
+                    <a class="brand" href="#">Chicago Ward Map</a>
+                    <div class="nav-collapse collapse">
+                        <ul class="nav pull-right">
+                          <li class="active"><a href="#top">Home</a></li>
+                          <li class=""><a href="#simple-map">Simple Map</a></li>
+                          <li class=""><a href="#styled-map">Styled Map</a></li>
+                          <li class=""><a href="#tooltip-map">Tooltip Map</a></li>
+                          <li class=""><a href="#heat-map">Heat Map</a></li>
+                        </ul>
+                    </div><!--/.nav-collapse -->
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+          <div class="row">
+            <div class="span12">
+                <p>This is a demonstration of how to plot a SVG map of the 50 Chicago wards.</p>
+                <p>Code is <a href="https://github.com/smartchicago/chicago-svg-ward-map">available at Github</a>. Questions, comments, or bug reports? <a href="https://github.com/smartchicago/chicago-svg-ward-map/issues">File them at Github</a>.</p></div>            
+          </div>
+          
+            <div class="row">
+              <div class="span6">
+                <a name="simple-map"></a>
+                <h3>Simple map</h3>
+                <div id="simple-ward-map"></div>                
+              </div>
+              <div class="span6">
+                <h3 class="muted">Code</h3>
+<pre>
+function draw_simple_map(){
+  // instantiate the map object
+  var simple_ward_map = $K.map('#simple-ward-map');
+
+  // load the SVG file
+  simple_ward_map.loadMap('img/wards.svg', function(){
+
+    // add the map layer
+    simple_ward_map.addLayer('chicago');
+  });    
+}
+</pre>
+              </div>
+            </div>
+            
+            <div class="row">
+              <div class="span6">
+                <a name="styled-map"></a>
+                <h3>Styled map</h3>
+                <div id="styled-ward-map"></div>                
+              </div>
+              <div class="span6">
+                <h3 class="muted">Code</h3>
+<pre class="">
+function draw_map_with_styles(){
+  // instantiate the map object
+  var styled_ward_map = $K.map('#styled-ward-map');
+
+  // load the SVG file
+  styled_ward_map.loadMap('img/wards.svg', function(){
+
+    // add the map layer
+    styled_ward_map.addLayer('chicago', {
+      // for a complete list of SVG style properties, consult: 
+      // http://www.w3.org/TR/SVG/propidx.html
+      styles : {
+
+        // heavy border stroke
+        'stroke-width': '3.5px',
+
+        // define a function to return a fill value. 
+        // In this case, random colors.
+        fill: function(d){
+          colors = ["red", "blue", "green", "yellow", 
+            "orange", "gray", "pink", "white"];
+          return colors[Math.floor(Math.random() * colors.length)];
+        }
+      }
+    });
+  });  
+}
+</pre>
+                              </div>                            
+            </div>
+
+            <div class="row">
+              <div class="span6">
+                <a name="heat-map"></a>
+                <h3>Heat Map</h3>
+                <div id="heat-map"></div>
+              </div>              
+            <div class="span6">
+              <h3 class="muted">Code</h3>
+<pre>
+// dummy data, key is ward number, value is the value
+var ward_data = {1:5,2:5,3:1,4:2,5:3,6:1,7:2,8:1,9:1,10:0,11:4,12:1,13:0,14:0,15:0,16:0,17:1,18:0,19:0,20:0,21:1,22:0,23:0,24:0,25:3,26:3,27:5,28:1,29:2,30:4,31:0,32:6,33:4,34:0,35:6,36:0,37:0,38:1,39:4,40:5,41:4,42:3,43:6,44:5,45:15,46:5,47:10,48:1,49:3,50:1};
+
+function draw_heat_map(){  
+  // instantiate the map object
+  var heat_map = $K.map('#heat-map');
+
+  // load the SVG file
+  heat_map.loadMap('img/wards.svg', function(){
+
+    // add the map layer
+    heat_map.addLayer('chicago');
+
+    layer = heat_map.getLayer('chicago');
+
+    // apply colors to the map
+    layer.style({
+      fill: function(d){
+        // the d argument contains Kartograph's data for the path.
+        // In this case, the data object for each path has a single
+        // key, 'ward', and the value is the ward number 
+
+        // lookup the data for the ward in our ward_data variable.
+        // This could be loaded from an external JSON file,         
+        // or another script, or generated by user input.        
+        if(ward_data[d.ward] == 0){
+            // return white for wards with zero values
+            return "#fff";
+          } else {
+            // return the color from the color lookup function
+            return color_for_value(ward_data[d.ward], ward_data);
+          }
+        }
+    });
+  });    
+}
+
+// Given a value, val, find the appropriate color for it, 
+// given the range of data points in all_values
+function color_for_value(val, all_values){
+
+  // colors for map, in increasing darkness
+  var color_range = ["#CCFFFF", "#99CCCC", 
+                    "#669999", "#336666", "#003333"];
+
+  // find all uniq values in all_values, return them sorted
+  var counts = _.sortBy(_.uniq(_.values(all_values)), 
+    function(a){ return a; } 
+  );
+
+  // pop zeros, will plot as blank regions
+  if(counts[0] == 0 ){ counts.shift() }
+
+  // find the index of the given value in 
+  // the sorted collection of all values
+  index_of_val = _.indexOf(counts, val);  
+
+  // use the index of the value to calculate 
+  // the index of the corresponding color
+  color_index = Math.floor(
+    (index_of_val / counts.length) * color_range.length
+  );
+
+  return color_range[color_index];
+}
+
+</pre>
+                            </div>
+
+            </div>
+          
+            <div class="row">              
+              <div class="span6">
+                <a name="tooltip-map"></a>
+                <h3>Tooltip Map</h3>
+                <div id="tooltip-map"></div>
+              </div>
+              <div class="span6">
+                <h3 class="muted">Code</h3>
+<pre>
+function draw_tooltip_map(){
+  // instantiate the map object
+  var tooltip_ward_map = $K.map('#tooltip-map');
+
+  // load the SVG file
+  tooltip_ward_map.loadMap('img/wards.svg', function(){
+
+    // add the map layer
+    tooltip_ward_map.addLayer('chicago');
+
+    layer = tooltip_ward_map.getLayer('chicago');
+
+    // for each ward, attach the ward data to the
+    // DOM object for the ward's path. This data
+    // is used to create the content for the tooltips
+    for(ward in ward_data){
+      var path = layer.getPaths({ward: ward});
+      var node = path[0].svgPath.node;
+      jQuery.data(node,"signups", ward_data[path[0].data.ward]);
+      jQuery.data(node,"ward", path[0].data.ward);    
+    }
+
+    // same code as the heat map
+    tooltip_ward_map.getLayer('chicago').style({
+      fill: function(d){ 
+        if(ward_data[d.ward] == 0){
+            return "#fff";
+          } else {
+            return color_for_value(ward_data[d.ward], ward_data);
+          }
+        }
+    });
+
+    // when the user hovers over a ward, the fill
+    // of the ward is set to hover_color
+    var hover_color = "#ccc";
+    $("#tooltip-map path.chicago").each(function(idx, obj){
+      // for each ward, setup the hover actions
+      $(obj).bind("mouseenter", function(){ 
+        // store the color of the ward pre-hover, so we
+        // can reset the color when the user hovers
+        // over another ward.
+        $(obj).data('previous-fill-color', $(obj).attr('fill')); 
+        $(obj).attr("fill", hover_color); 
+      });
+
+      $(obj).bind("mouseleave", function(){
+        $(obj).attr("fill", $(obj).data('previous-fill-color'));
+      });
+
+      var number_of_signups = $.data(obj,'signups');
+      $(obj).tooltip({
+        container: 'body', 
+        animation: false, 
+        placement: 'left', 
+        title:     "Ward " + $.data(obj,'ward') + ": " +  
+                   (number_of_signups || '0') + " tester" + 
+                   (number_of_signups == 1 ? '' : 's') 
+      });
+    });      
+  });        
+}
+
+// Given a value, val, find the appropriate color for it, 
+// given the range of data points in all_values
+function color_for_value(val, all_values){
+
+  // colors for map, in increasing darkness
+  var color_range = ["#CCFFFF", "#99CCCC", 
+                    "#669999", "#336666", "#003333"];
+
+  // find all uniq values in all_values, return them sorted
+  var counts = _.sortBy(_.uniq(_.values(all_values)), 
+    function(a){ return a; } 
+  );
+
+  // pop zeros, will plot as blank regions
+  if(counts[0] == 0 ){ counts.shift() }
+
+  // find the index of the given value in 
+  // the sorted collection of all values
+  index_of_val = _.indexOf(counts, val);  
+
+  // use the index of the value to calculate 
+  // the index of the corresponding color
+  color_index = Math.floor(
+    (index_of_val / counts.length) * color_range.length
+  );
+
+  return color_range[color_index];
+}
+    
+</pre>                
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="span12">
+                <h3>Credits</h3>
+                <p>This project was inspired by <a href="http://srobbin.com/">Scott Robbin</a>'s wonderful <a href="http://openchicago.org">Open Chicago</a> application. This implementation relies heavily on the <a href="http://jquery.com">jQuery</a>, <a href="http://raphaeljs.com">RaphaelJS</a>, and <a href="http://kartograph.org/docs/kartograph.js/">Kartograph.js</a> libraries. The site style and tooltips are powered by Twitter's <a href="http://twitter.github.com/bootstrap/">Bootstrap library</a>.</p>
+              </div>
+            </div>
+
+            <hr>
+
+            <footer>
+              <p class="muted"><a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/80x15.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>. Code available under the MIT License. Brought to you by <a href="http://www.chrisgansen.com">Chris Gansen</a> and <a href="http://www.smartchicagocollaborative.org">Smart Chicago Collaborative</a>.</p>
+            </footer>
+
+        </div> <!-- /container -->
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.0.min.js"><\/script>')</script>
+
+        <script src="js/vendor/bootstrap.min.js"></script>
+        <script src="js/vendor/raphael-min.js"></script>
+        <script src="js/vendor/kartograph.min.js"></script>
+        <script src="js/vendor/underscore-min.js"></script>
+        <script src="js/main.js"></script>
+
+        <script type="text/javascript">
+
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-37739534-8']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
+        </script>
+    </body>
+</html>
