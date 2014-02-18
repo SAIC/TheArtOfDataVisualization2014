@@ -97,10 +97,14 @@ title:  Syllabus
 
 
 ### Week 6 <small>4-Mar-14</small>
+- workshop big data projects
+- take stock of preparations for submission
+
+### Week 7 <small>11-Mar-14</small>
 - Big Data Project Critiques
 - Gather ideas for midterm projects
 
-### Week 7 <small>11-Mar-14</small>
+### Week 8 <small>18-Mar-14</small>
 - Live Data
     - What is "real-time"? Why are we attracted to "real-time"? 
 - Real-time data analysis
@@ -116,21 +120,21 @@ title:  Syllabus
 - "News" - "immediacy"
 - Project 3 - Live Data Project (Midterm) assigned
 	- Students will choose a live data stream (Vine, Twitter), and create a screen-based live visualization of that data.
-
-### Week 8 <small>18-Mar-14</small>
-- Live Data II - a call to action, revolutions, flashmobs, 
+Flash mobs?
 
 
 ### Week 9 <small>25-Mar-14</small>
+- workshop Live data projects
+
+
+### Week 10 <small>1-April-14</small>
 - Midterm
 - Live Data Project Critiques
 - Outlining final projects
 - Gather ideas for final project
-
-### Week 10 <small>1-April-14</small>
 - Workshop of final project ideas and work groups
 - Teams, data, everything is solved and everyone is in a group 
-by the end of class
+by the end of class?
 
 
 ### Week 11 <small>8-April-14</small>
