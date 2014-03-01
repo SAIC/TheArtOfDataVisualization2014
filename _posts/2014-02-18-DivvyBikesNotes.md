@@ -10,8 +10,8 @@ due:        2014-03-14
 Live station info here,</br>
 http://divvybikes.com/stations/json
 </br></br>
-Github open lab divvy challenge site and formatted data here,</br>
-https://github.com/olab-io/divvy_datachallenge_2013_toolkit
+Github open lab divvy challenge site and formatted data [here,]
+(https://github.com/olab-io/divvy_datachallenge_2013_toolkit)
 </br></br>
 Rights agreement of Divvy Competition: dual distribution,
 </br></br>
