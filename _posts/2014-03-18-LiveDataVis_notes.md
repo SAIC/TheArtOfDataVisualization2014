@@ -60,4 +60,43 @@ Frank Gilbreth used film specifically for visualizing the hidden data of human e
 <iframe width="420" height="315" src="//www.youtube.com/embed/ovmXQBs0ZXY" frameborder="0" allowfullscreen></iframe>
 </br></br></br></br></br></br>
 
+Obviously these data sets, unlike a clock on the wall, are not 'live' in the set of contemporaneous-- they are more than 100 years old.  But they seem to have a live-ness.
+
+The epitome of contemporary Live Data Visualization might be Wind Map by Fernanda Viégas and Martin Wattenberg:</br></br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/WindMap.jpg" width="560"></br>
+
+http://hint.fm/wind/</br></br>
+
+An image of this is used on the cover of the 2013 book, 'Design for Information' by Isabel Meirelles.  She has no chapter for live data visualization, but instead chapter headings that surround the subject: "Ch3, Temporal Structures: Timelines and Flows," "Ch4: Spatial Structures: Maps," "Ch5, Spatio-Temporal Structures," categorizing together traditional static representations of time and contemporary interactive and live-mapping representations.
+
+</br></br>
+
+In Chapter 3, as she's laying out the territory, Meirelles quotes Umberto Eco's 'Story of Time', and in this quote, I think, we are keyed in to the essential nature of Live Data Vis; I quote from page 85:
+"Another aspect of our temporal experiences is the time perceived, as when we express that 'the day was too long'.  Discussions around the nature of time can be traced back to the fourth century, as Eco describes: 'Augustine tells us, we can measure neither the past, nor the present, nor the future (since these never exist), and yet we do measure time, whenever we say that a certain time is long, that it never seems to pass or that it has passed by very quickly.  In other words, there is a nonmetric measure, the sort we use when we think of the day as boring and long or when a pleasurable hour has gone by too swirly.  And here, Augustine pulls off an audacious coup de theatre: He locates his nonmetric measure in our memory.  The true measure of time is an inner measure.  Centuries later, Henri Bergson would also contrast metric time with the time of our consciousness or 'inner duree'."
+</br></br>
+Henri Bergson's famous metaphor for his conception of multiplicities of time-- a subjective duree that contains the durees of those actors around us-- is the dissolving of sugar in water... From Chapter 1 of Creative Evolution:</br></br>
+
+"If I want to mix a glass of sugar and water, I must, willy nilly, wait until the sugar melts. This little fact is big with meaning. For here the time I have to wait is not that mathematical time which would apply equally well to the entire history of the material world, even if that history were spread out instantaneously in space. It coincides with my impatience, that is to say, with a certain portion of my own duration, which I cannot protract or contract as I Eke. It is no longer something thought, it is something lived. It is no longer a relation, it is an absolute. What else can this mean than that the glass of water, the sugar, and the process of the sugar's melting in the water are abstractions, and that the Whole within which they have been cut out by my senses and understanding progresses, it may be in the manner of a consciousness?"</br></br>
+
+A multiplicity of time that we constantly experience... my time in relationship to that of the water and the sugar in their relationship of dissolving.  This is a phenomenological time, and I think it is the phenomenon--the outlining and revealing of this feeling and relationship--that is the quality that we are trying to delineate with the heading, Live Data Vis.  We could say that our continuing fascination for the images of Muybridge and Marey, Taylorism and Gilbreth, is in antagonism to their original purpose (and this antagonism brought about all of cinema for the last century)-- in the images through which they seek to quantify time, we instead find the fascination of the subjective phenomenon of time... our own durations in perception put in relation to a definite other.
+</br></br>
+This contradistinction, leads us to other related pairs, "representation & analogue," "metaphor & metonymy."  The latter pair, I'm referring to Roman Jakobson and his analysis of aphasia in language... proposing two axis of meaning in language, a metaphoric paradigmatic and a metonymic syntagmatic... that is a plane of meaning through substitution and a plane of meaning through contiguity.  Where a chart replaces a set of data with a representation through metaphor, a Live Data Vis sits in relationship to the data in analogue (constantly translating into a 'proportion')... this metonymic relationship is an experience of multiplicity of duree.  Perhaps images deliver a special fascination, because language is so poor at giving this experience... our linguistic translation of time into spatial terms ('before', 'after', and so on) is almost always in a metaphoric relationship to time.  
+</br></br>
+Certainly in art, with the advent of chronophotography, the expression of multiplicity and time became a priority in Futurism and Cubism, communicating motion and multiplicity, not to mention the meteoric rise of cinema itself as a popular medium.  This was a break from a previous artistic tactic of creating art that was extra-temporal in architecture, symbolism, tableau, and in direct response to the phenomenon of a multiplicity captured and re-presented.
+</br></br>
+New Media brings in to this discussion the role of interactivity... is a static representation that is, also, live because you can click on it and change that presentation a multiplicitous analogue?</br></br>
+The Canadian Artist, David Rokeby, made an interactive (early AR) piece directly referencing Cubism and Duchamp's portrayed temporal multiplicity in Nude Descending a Staircase (Cheap Imitation, 2002):</br></br>
+
+<iframe src="//player.vimeo.com/video/17141938" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/17141938">Cheap Imitation (2002)</a> from <a href="http://vimeo.com/davidrokeby">David Rokeby</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+</br></br>
+In almost all of Rokeby's work from that decade, the installations 'live-ness' whether faked or real was essential to the experience (in the case of his installation at the Venice Biennale which processed video from the Piazza San Marco, the live-video was faked with pre-recorded, yet all the descriptions still noted it as live-processing because this was the essential material of the experience... a multiplicitous experience of time in the live analogue).  It is easy to note the reference to chronophotography from a century before:</br></br>
+
+<iframe src="//player.vimeo.com/video/6012986" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/6012986">Seen (2002) by David Rokeby</a> from <a href="http://vimeo.com/davidrokeby">David Rokeby</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</br></br>
+
+If you don't think his work is Live Data Vis, look at this, http://www.davidrokeby.com/sorting.html or this http://www.davidrokeby.com/taken.html
+</br></br>
+So, I think the take-away--and, reflecting, we can see this in our discussions of what is the subject matter of our current project--is that Live Data Vis is not necessarily concerned with being simultaneous (even Wind Map is not actually simultaneous), and not necessarily animated, but its material is a temporal analogue of some kind-- there is the revealing of our experience of multiplicity.
+
 
