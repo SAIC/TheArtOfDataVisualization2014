@@ -27,7 +27,8 @@ It is more appropriate than you might think to go back to photography...
 
 Like look at this recording that charts the "Positions of sun at hours 10 and 11 a.m., 12 m., and 1 and 2 p.m. on Dec. 28th, 1910 from Nome, Alaska"</br></br></br></br>
 
-![Alaska Sun](/TheArtOfDataVisualization/people/garhodes/img/AlaskaSun.jpg "http://www.loc.gov/pictures/resource/ppmsc.01872/ width="560" "Alaska Sun")
+
+<img src="/TheArtOfDataVisualization/people/garhodes/img/AlaskaSun.jpg" width="560"> 
 
 
 </br></br></br></br>
@@ -36,26 +37,18 @@ Like look at this recording that charts the "Positions of sun at hours 10 and 11
 
 
 <img src="/TheArtOfDataVisualization/people/garhodes/img/Muybridge1.jpg" width="560"> 
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Muybridge2.jpg" width="560">  
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Muybridge4.jpg" width="560"> 
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Marey1.jpg" width="560"> 
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Marey2.jpg" width="560">
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Marey3.jpg" width="560">
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Marey4.jpg" width="560">
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Marey5.jpg" width="560">
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Marey6.jpg" width="560">
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Marey7.jpg" width="560">
 
-![Muybridge2](/TheArtOfDataVisualization/people/garhodes/img/Muybridge2.jpg "Muybridge")  
 
-![Muybridge4](/TheArtOfDataVisualization/people/garhodes/img/Muybridge4.jpg "Muybridge") 
 
-![Muybridge5](/TheArtOfDataVisualization/people/garhodes/img/Muybridge5.jpg "Muybridge") 
-
-![Marey1](/TheArtOfDataVisualization/people/garhodes/img/Marey1.jpg "Marey") 
-
-![Marey2](/TheArtOfDataVisualization/people/garhodes/img/Marey2.jpg "Marey") 
-
-![Marey3](/TheArtOfDataVisualization/people/garhodes/img/Marey3.jpg "Marey") 
-
-![Marey4](/TheArtOfDataVisualization/people/garhodes/img/Marey4.jpg "Marey") 
-
-![Marey5](/TheArtOfDataVisualization/people/garhodes/img/Marey5.jpg "Marey") 
-
-![Marey6](/TheArtOfDataVisualization/people/garhodes/img/Marey6.jpg "Marey") 
-
-![Marey7](/TheArtOfDataVisualization/people/garhodes/img/Marey7.jpg "Marey")
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/EZkP9YJGfow" frameborder="0" allowfullscreen></iframe>
 
