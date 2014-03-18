@@ -105,72 +105,85 @@ So, I think the take-away--and, reflecting, we can see this in our discussions o
 </br></br></br></br>
 Below are a selection of case studies and examples from Chapters 3-5 of 'Design for Information'; can the above statement be substantiated in them?</br></br></br></br>
 
-McNaughton, 'Fifty Years of Space Exploration', 2010
-
+McNaughton, 'Fifty Years of Space Exploration', 2010</br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/50-years-exploration-huge.jpg" width="800"></br>
 ![Google Image](http://www.infographicsonly.com/wp-content/uploads/50-years-exploration-huge.jpg)
 
 </br></br>
-Viegas & Wattenberg, History Flow, 2003
+Viegas & Wattenberg, History Flow, 2003</br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/fernanda-viegas-choco.jpg" width="800"></br>
 ![Google Image](http://images.fastcompany.com/upload/fernanda-viegas-choco.jpg)
 </br></br>
-Bestiario, 'Research Flow', 2009
+Bestiario, 'Research Flow', 2009</br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/88893v2.png" width="800"></br>
 ![Google Image](http://s3.amazonaws.com/crunchbase_prod_assets/assets/images/original/0008/8893/88893v2.png)
 </br></br>
-Wattengerg, Name Voyager, 2005
+Wattengerg, Name Voyager, 2005</br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/baby-name-490x320.gif" width="800"></br>
 ![Google Image](http://www.bewitched.com/names/baby-name-490x320.gif)
 </br></br>
-Bloch, The Ebb and Flow of Movies, 2008
+Bloch, The Ebb and Flow of Movies, 2008</br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/infographicstellastory.png" width="800"></br>
 ![Google Image](http://api.ning.com/files/zbFTnRsTKEe4Hx-Y6Zw3J33Ny7KFq4hQ8O8xDFhDrCOAX-GmLKjxJN*g6qzjI*ypcavcu-5VJhfCAFOoJwY8MFfPqkGOtl0*/infographicstellastory.png)
 </br></br>
-Carter, How Different Groups Spend Their Day, 2008
+Carter, How Different Groups Spend Their Day, 2008</br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/nyt_time_use_charting.gif" width="800"></br>
 ![Google Image](http://kelsocartography.com/blog/wp-content/uploads/2009/12/nyt_time_use_charting.gif)
 </br></br>
-Fry, Dencity, 2011
+Fry, Dencity, 2011</br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/tumblr_moffgiImeA1rilh4wo1_1280.jpg" width="800"></br>
 ![Google Image](http://31.media.tumblr.com/882275d9a2c122921c02bf337c9f25d2/tumblr_moffgiImeA1rilh4wo1_1280.jpg)
 </br></br>
 
-Fry, Zipcode Map, 2004
+Fry, Zipcode Map, 2004</br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/zipdecode+%7C+ben+fry+1.jpg" width="800"></br>
 
 ![Google Image](http://s3.media.squarespace.com/production/482333/5498857/_V1hky3QMM4k/SUCOpAK9L7I/AAAAAAAABD4/6jK0qHipOTM/s400/zipdecode+%7C+ben+fry+1.jpg)
 </br></br>
 
 Fischer, Locals and Tourists, 2010
-
+</br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/4671594023_db3d6de4bd_o.jpg" width="800"></br>
 ![Google Image](http://farm5.staticflickr.com/4050/4671594023_db3d6de4bd_o.jpg)
 </br></br>
 
 NYTimes, Election Results 2008
-
+</br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/2008_US_vote_spread_bubble.jpg" width="800"></br>
 ![Google Image](http://www.longwood.edu/staff/hardinds/Politics/2008/2008_US_vote_spread_bubble.jpg)
 </br></br>
 
 Charles Joseph Minard, map of immigration 1858
-
+</br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/minard-full.jpg" width="800"></br>
 ![Google Image](http://cartographia.files.wordpress.com/2008/05/minard-full.jpg)
 </br></br>
 
 Phan, Flow Map Layout... map of California migration, 2005
-
+</br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/ca-hi-ak-web.jpg" width="800"></br>
 ![Google Image](http://graphics.stanford.edu/papers/flow_map_layout/ca-hi-ak-web.jpg)
 </br></br>
-Mislove, Pulse of a Nation, 2011
+Mislove, Pulse of a Nation, 2011</br>
 <iframe width="560" height="315" src="//www.youtube.com/embed/XNsrj5bE2qI" frameborder="0" allowfullscreen></iframe>
 </br></br>
-Cruz, Traffic in Lisbon, 2010
+Cruz, Traffic in Lisbon, 2010</br>
 <iframe src="//player.vimeo.com/video/10218235" width="500" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/10218235">Lisbon's slow traffic areas</a> from <a href="http://vimeo.com/pmcruz">Pedro Miguel Cruz</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </br></br>
 
 
-Minard, Napoleon March to and from Russia, 1869
+Minard, Napoleon March to and from Russia, 1869</br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Minard.png" width="800"></br>
 ![Google Image](http://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)
 </br></br>
-Kraak, Napoleon March to and from Russia (cube), 2002
+Kraak, Napoleon March to and from Russia (cube), 2002</br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/kraak.png" width="800"></br>
 ![Google Image](http://earthinvision.com/wp-content/uploads/2013/09/kraak.png)
 </br></br>
-Cao, 2012, Whisper Twitter Monitor
+Cao, 2012, Whisper Twitter Monitor</br>
 http://www.nancao.org/movie/whisper.mov
 </br></br>
-Deb Roy and Rupal Patel, HouseFly, ongoing
+Deb Roy and Rupal Patel, HouseFly, ongoing</br>
 http://www.wired.co.uk/magazine/archive/2012/11/start/the-all-seeing-home/viewgallery/291944
 </br></br></br></br></br></br></br></br>
 
