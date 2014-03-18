@@ -18,7 +18,7 @@ Well, to some extent, it must be time...
 So, is this the archetypical example of Live Data Visualization:
 
 ![Clock](/TheArtOfDataVisualization/people/garhodes/img/clock1.jpg "The clock... the archetype of live data vis")
-
+</br></br>
 </br></br>A clock is a representation of the passing of time-- not quite an analogue, but built on an analogue, such as the vibrations of quartz crystals or the mechanical unwinding of a spring over time, then this analogue is translated into a graphic convention of representation...
 
 Roland Barthes, in Camera Lucida, said that the camera is a clock.  So is the camera--or the photograph--live data vis?
@@ -28,7 +28,7 @@ It is more appropriate than you might think to go back to photography...
 Like look at this recording that charts the "Positions of sun at hours 10 and 11 a.m., 12 m., and 1 and 2 p.m. on Dec. 28th, 1910 from Nome, Alaska"
 
 ![Alaska Sun](/TheArtOfDataVisualization/people/garhodes/img/AlaskaSun.jpg "http://www.loc.gov/pictures/resource/ppmsc.01872/")
-
+</br></br></br></br>
 </br></br>These are examples of early chrono-photography... Eadweard Muybridge and Jules Marey trying to record, measure, and represent the motion of bodies:
 
 ![Muybridge1](/TheArtOfDataVisualization/people/garhodes/img/Muybridge1.jpg "Muybridge") 
@@ -57,8 +57,8 @@ Like look at this recording that charts the "Positions of sun at hours 10 and 11
 
 
 
-</br></br>
+</br></br></br></br></br></br>
 Frank Gilbreth used film specifically for visualizing the hidden data of human efficiency in motion-- the same project for which Frederick Taylor used the stopwatch and charts.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/ovmXQBs0ZXY" frameborder="0" allowfullscreen></iframe>
-</br></br>
+</br></br></br></br></br></br>
