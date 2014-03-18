@@ -7,15 +7,6 @@ author: garhodes
 ---
 
 
-Hotlink and image.
-
-![Google Image](https://www.google.com/images/srpr/logo11w.png)
-
-Post an image from our server!
-
-![Cat Ball](/TheArtOfDataVisualization/people/bakercp/img/catball.jpg "Yes, it's a cat ball.")
-
-
 Notes on the subject of Live Data Visualization
 
 So... what is Live Data Visualization?  ...does it exist?
@@ -26,7 +17,7 @@ Well, to some extent, it must be time...
 
 So, is this the archetypical example of Live Data Visualization:
 
-![Clock](/TheArtOfDataVisualization/people/garhodes/img/clock.jpg "The clock... the archetype of live data vis")
+![Clock](/TheArtOfDataVisualization/people/garhodes/img/clock1.jpg "The clock... the archetype of live data vis")
 
 A clock is a representation of the passing of time-- not quite an analogue, but built on an analogue, such as the vibrations of quartz crystals or the mechanical unwinding of a spring over time, then this analogue is translated into a graphic convention of representation...
 
@@ -63,6 +54,8 @@ These are examples of early chrono-photography... Eadweard Muybridge and Jules M
 ![Marey7](/TheArtOfDataVisualization/people/garhodes/img/Marey7.jpg "Marey")
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/EZkP9YJGfow" frameborder="0" allowfullscreen></iframe>
+
+
 
 
 Frank Gilbreth used film specifically for visualizing the hidden data of human efficiency in motion-- the same project for which Frederick Taylor used the stopwatch and charts.
