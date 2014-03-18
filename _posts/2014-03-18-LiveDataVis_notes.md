@@ -36,21 +36,21 @@ Like look at this recording that charts the "Positions of sun at hours 10 and 11
 </br></br></br></br>
 
 
-<img src="/TheArtOfDataVisualization/people/garhodes/img/Muybridge1.jpg" width="560"> 
-<img src="/TheArtOfDataVisualization/people/garhodes/img/Muybridge2.jpg" width="560">  
-<img src="/TheArtOfDataVisualization/people/garhodes/img/Muybridge4.jpg" width="560"> 
-<img src="/TheArtOfDataVisualization/people/garhodes/img/Marey1.jpg" width="560"> 
-<img src="/TheArtOfDataVisualization/people/garhodes/img/Marey2.jpg" width="560">
-<img src="/TheArtOfDataVisualization/people/garhodes/img/Marey3.jpg" width="560">
-<img src="/TheArtOfDataVisualization/people/garhodes/img/Marey4.jpg" width="560">
-<img src="/TheArtOfDataVisualization/people/garhodes/img/Marey5.jpg" width="560">
-<img src="/TheArtOfDataVisualization/people/garhodes/img/Marey6.jpg" width="560">
-<img src="/TheArtOfDataVisualization/people/garhodes/img/Marey7.jpg" width="560">
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Muybridge1.jpg" width="560"> </br></br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Muybridge2.jpg" width="560">  </br></br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Muybridge4.jpg" width="560"> </br></br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Marey1.jpg" width="560"> </br></br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Marey2.jpg" width="560"></br></br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Marey3.jpg" width="560"></br></br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Marey4.jpg" width="560"></br></br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Marey5.jpg" width="560"></br></br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Marey6.jpg" width="560"></br></br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Marey7.jpg" width="560"></br></br>
 
 
 
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/EZkP9YJGfow" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/EZkP9YJGfow" frameborder="0" allowfullscreen></iframe></br></br>
 
 
 
