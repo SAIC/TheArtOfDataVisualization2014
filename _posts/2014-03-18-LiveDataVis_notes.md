@@ -67,7 +67,9 @@ The epitome of contemporary Live Data Visualization might be Wind Map by Fernand
 
 http://hint.fm/wind/</br></br>
 
-An image of this is used on the cover of the 2013 book, 'Design for Information' by Isabel Meirelles.  She has no chapter for live data visualization, but instead chapter headings that surround the subject: "Ch3, Temporal Structures: Timelines and Flows," "Ch4: Spatial Structures: Maps," "Ch5, Spatio-Temporal Structures," categorizing together traditional static representations of time and contemporary interactive and live-mapping representations.
+An image of this is used on the cover of the 2013 book, 'Design for Information' by Isabel Meirelles.  She has no chapter for live data visualization, but instead chapter headings that surround the subject: "Ch3, Temporal Structures: Timelines and Flows," "Ch4: Spatial Structures: Maps," "Ch5, Spatio-Temporal Structures," categorizing together traditional static representations of time and contemporary interactive and live-mapping representations.  Static mappings like this:
+</br></br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/FergusonTimeline_sm.jpg" width="560"></br>
 
 </br></br>
 
@@ -98,5 +100,8 @@ In almost all of Rokeby's work from that decade, the installations 'live-ness' w
 If you don't think his work is Live Data Vis, look at this, http://www.davidrokeby.com/sorting.html or this http://www.davidrokeby.com/taken.html
 </br></br>
 So, I think the take-away--and, reflecting, we can see this in our discussions of what is the subject matter of our current project--is that Live Data Vis is not necessarily concerned with being simultaneous (even Wind Map is not actually simultaneous), and not necessarily animated, but its material is a temporal analogue of some kind-- there is the revealing of our experience of multiplicity.
+</br></br></br></br>
+Below are a selection of case studies and examples from Chapters 3-5 of 'Design for Information'; can the above statement be substantiated in them?</br></br></br></br>
+
 
 
