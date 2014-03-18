@@ -136,7 +136,7 @@ Fry, Dencity, 2011</br>
 </br></br>
 
 Fry, Zipcode Map, 2004</br>
-<img src="/TheArtOfDataVisualization/people/garhodes/img/zipdecode+%7C+ben+fry+1.jpg" width="800"></br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/zipcode.jpg" width="800"></br>
 
 ![Google Image](http://s3.media.squarespace.com/production/482333/5498857/_V1hky3QMM4k/SUCOpAK9L7I/AAAAAAAABD4/6jK0qHipOTM/s400/zipdecode+%7C+ben+fry+1.jpg)
 </br></br>
@@ -174,11 +174,11 @@ Cruz, Traffic in Lisbon, 2010</br>
 
 Minard, Napoleon March to and from Russia, 1869</br>
 <img src="/TheArtOfDataVisualization/people/garhodes/img/Minard.png" width="800"></br>
-![Google Image](http://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)
+http://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png
 </br></br>
 Kraak, Napoleon March to and from Russia (cube), 2002</br>
 <img src="/TheArtOfDataVisualization/people/garhodes/img/kraak.png" width="800"></br>
-![Google Image](http://earthinvision.com/wp-content/uploads/2013/09/kraak.png)
+http://earthinvision.com/wp-content/uploads/2013/09/kraak.png
 </br></br>
 Cao, 2012, Whisper Twitter Monitor</br>
 http://www.nancao.org/movie/whisper.mov
