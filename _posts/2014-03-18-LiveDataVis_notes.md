@@ -7,7 +7,7 @@ author: garhodes
 ---
 
 
-Notes on the subject of Live Data Visualization 
+<b>Notes on the subject of Live Data Visualization </b>
 
 So... what is Live Data Visualization?  ...does it exist?
 
