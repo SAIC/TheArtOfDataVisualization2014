@@ -69,7 +69,7 @@ http://hint.fm/wind/</br></br>
 
 An image of this is used on the cover of the 2013 book, 'Design for Information' by Isabel Meirelles.  She has no chapter for live data visualization, but instead chapter headings that surround the subject: "Ch3, Temporal Structures: Timelines and Flows," "Ch4: Spatial Structures: Maps," "Ch5, Spatio-Temporal Structures," categorizing together traditional static representations of time and contemporary interactive and live-mapping representations.  Static mappings like this:
 </br></br>
-<img src="/TheArtOfDataVisualization/people/garhodes/img/FergusonTimeline_sm.jpg" width="560"></br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/FergusonTimeline_sm.jpg" width="1200"></br>
 
 </br></br>
 
@@ -84,7 +84,9 @@ A multiplicity of time that we constantly experience... my time in relationship 
 </br></br>
 This contradistinction, leads us to other related pairs, "representation & analogue," "metaphor & metonymy."  The latter pair, I'm referring to Roman Jakobson and his analysis of aphasia in language... proposing two axis of meaning in language, a metaphoric paradigmatic and a metonymic syntagmatic... that is a plane of meaning through substitution and a plane of meaning through contiguity.  Where a chart replaces a set of data with a representation through metaphor, a Live Data Vis sits in relationship to the data in analogue (constantly translating into a 'proportion')... this metonymic relationship is an experience of multiplicity of duree.  Perhaps images deliver a special fascination, because language is so poor at giving this experience... our linguistic translation of time into spatial terms ('before', 'after', and so on) is almost always in a metaphoric relationship to time.  
 </br></br>
-Certainly in art, with the advent of chronophotography, the expression of multiplicity and time became a priority in Futurism and Cubism, communicating motion and multiplicity, not to mention the meteoric rise of cinema itself as a popular medium.  This was a break from a previous artistic tactic of creating art that was extra-temporal in architecture, symbolism, tableau, and in direct response to the phenomenon of a multiplicity captured and re-presented.
+Certainly in art, with the advent of chronophotography, the expression of multiplicity and time became a priority in Futurism and Cubism, communicating motion and multiplicity, not to mention the meteoric rise of cinema itself as a popular medium.  This was a break from a previous artistic tactic of creating art that was extra-temporal in architecture, symbolism, tableau, and in direct response to the phenomenon of a multiplicity captured and re-presented.  It's all visualized nicely here in Ward Shelley's 2007 "Addendum to Alfred Barr,"
+</br></br>
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Shelly_addendumToBarr.jpg" width="1920"></br>
 </br></br>
 New Media brings in to this discussion the role of interactivity... is a static representation that is, also, live because you can click on it and change that presentation a multiplicitous analogue?</br></br>
 The Canadian Artist, David Rokeby, made an interactive (early AR) piece directly referencing Cubism and Duchamp's portrayed temporal multiplicity in Nude Descending a Staircase (Cheap Imitation, 2002):</br></br>
