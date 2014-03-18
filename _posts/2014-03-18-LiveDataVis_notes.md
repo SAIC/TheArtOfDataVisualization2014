@@ -105,5 +105,6 @@ So, I think the take-away--and, reflecting, we can see this in our discussions o
 </br></br></br></br>
 Below are a selection of case studies and examples from Chapters 3-5 of 'Design for Information'; can the above statement be substantiated in them?</br></br></br></br>
 
-
+![Google Image](http://www.infographicsonly.com/wp-content/uploads/50-years-exploration-huge.jpg)
+</br></br>
 
