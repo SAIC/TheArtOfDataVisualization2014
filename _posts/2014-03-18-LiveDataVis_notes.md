@@ -27,11 +27,13 @@ It is more appropriate than you might think to go back to photography...
 
 Like look at this recording that charts the "Positions of sun at hours 10 and 11 a.m., 12 m., and 1 and 2 p.m. on Dec. 28th, 1910 from Nome, Alaska"</br></br></br></br>
 
-![Alaska Sun](/TheArtOfDataVisualization/people/garhodes/img/AlaskaSun.jpg "http://www.loc.gov/pictures/resource/ppmsc.01872/")
+![Alaska Sun](/TheArtOfDataVisualization/people/garhodes/img/AlaskaSun.jpg "http://www.loc.gov/pictures/resource/ppmsc.01872/ width="560" "Alaska Sun")
+
+
 </br></br></br></br>
 </br></br>These are examples of early chrono-photography... Eadweard Muybridge and Jules Marey trying to record, measure, and represent the motion of bodies:
 </br></br></br></br>
-![Muybridge1](/TheArtOfDataVisualization/people/garhodes/img/Muybridge1.jpg "Muybridge")
+
 
 <img src="/TheArtOfDataVisualization/people/garhodes/img/Muybridge1.jpg" width="560"> 
 
