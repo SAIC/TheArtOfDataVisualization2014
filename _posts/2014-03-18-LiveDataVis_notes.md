@@ -104,8 +104,11 @@ If you don't think his work is Live Data Vis, look at this, http://www.davidroke
 So, I think the take-away--and, reflecting, we can see this in our discussions of what is the subject matter of our current project--is that Live Data Vis is not necessarily concerned with being simultaneous (even Wind Map is not actually simultaneous), and not necessarily animated, but its material is a temporal analogue of some kind-- there is the revealing of our experience of multiplicity.
 </br></br></br></br>
 Below are a selection of case studies and examples from Chapters 3-5 of 'Design for Information'; can the above statement be substantiated in them?</br></br></br></br>
+
 McNaughton, 'Fifty Years of Space Exploration', 2010
+
 ![Google Image](http://www.infographicsonly.com/wp-content/uploads/50-years-exploration-huge.jpg)
+
 </br></br>
 Viegas & Wattenberg, History Flow, 2003
 ![Google Image](http://images.fastcompany.com/upload/fernanda-viegas-choco.jpg)
@@ -125,19 +128,29 @@ Carter, How Different Groups Spend Their Day, 2008
 Fry, Dencity, 2011
 ![Google Image](http://31.media.tumblr.com/882275d9a2c122921c02bf337c9f25d2/tumblr_moffgiImeA1rilh4wo1_1280.jpg)
 </br></br>
+
 Fry, Zipcode Map, 2004
+
 ![Google Image](http://s3.media.squarespace.com/production/482333/5498857/_V1hky3QMM4k/SUCOpAK9L7I/AAAAAAAABD4/6jK0qHipOTM/s400/zipdecode+%7C+ben+fry+1.jpg)
 </br></br>
+
 Fischer, Locals and Tourists, 2010
+
 ![Google Image](http://farm5.staticflickr.com/4050/4671594023_db3d6de4bd_o.jpg)
 </br></br>
+
 NYTimes, Election Results 2008
+
 ![Google Image](http://www.longwood.edu/staff/hardinds/Politics/2008/2008_US_vote_spread_bubble.jpg)
 </br></br>
+
 Charles Joseph Minard, map of immigration 1858
+
 ![Google Image](http://cartographia.files.wordpress.com/2008/05/minard-full.jpg)
 </br></br>
+
 Phan, Flow Map Layout... map of California migration, 2005
+
 ![Google Image](http://graphics.stanford.edu/papers/flow_map_layout/ca-hi-ak-web.jpg)
 </br></br>
 Mislove, Pulse of a Nation, 2011
