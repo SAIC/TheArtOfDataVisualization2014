@@ -174,11 +174,11 @@ Cruz, Traffic in Lisbon, 2010</br>
 
 Minard, Napoleon March to and from Russia, 1869</br>
 <img src="/TheArtOfDataVisualization/people/garhodes/img/Minard.png" width="800"></br>
-http://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png
+upload.wikimedia.org/wikipedia/commons/2/29/Minard.png
 </br></br>
 Kraak, Napoleon March to and from Russia (cube), 2002</br>
 <img src="/TheArtOfDataVisualization/people/garhodes/img/kraak.png" width="800"></br>
-http://earthinvision.com/wp-content/uploads/2013/09/kraak.png
+earthinvision.com/wp-content/uploads/2013/09/kraak.png
 </br></br>
 Cao, 2012, Whisper Twitter Monitor</br>
 http://www.nancao.org/movie/whisper.mov
