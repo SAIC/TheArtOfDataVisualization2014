@@ -31,7 +31,9 @@ Like look at this recording that charts the "Positions of sun at hours 10 and 11
 </br></br></br></br>
 </br></br>These are examples of early chrono-photography... Eadweard Muybridge and Jules Marey trying to record, measure, and represent the motion of bodies:
 </br></br></br></br>
-![Muybridge1](/TheArtOfDataVisualization/people/garhodes/img/Muybridge1.jpg "Muybridge") 
+![Muybridge1](/TheArtOfDataVisualization/people/garhodes/img/Muybridge1.jpg "Muybridge")
+
+<img src="/TheArtOfDataVisualization/people/garhodes/img/Muybridge1.jpg" width="560"> 
 
 ![Muybridge2](/TheArtOfDataVisualization/people/garhodes/img/Muybridge2.jpg "Muybridge")  
 
@@ -62,3 +64,5 @@ Frank Gilbreth used film specifically for visualizing the hidden data of human e
 </br></br></br></br>
 <iframe width="420" height="315" src="//www.youtube.com/embed/ovmXQBs0ZXY" frameborder="0" allowfullscreen></iframe>
 </br></br></br></br></br></br>
+
+
