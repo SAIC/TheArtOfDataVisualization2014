@@ -12,7 +12,7 @@ like to share my code with others. this is what I got so far :)
 
 [TwitterStream_Processing](https://github.com/sendtogil/TwitterStream_Processing)
 
-Hope I helps for someone.
+Hope It helps.
 
 feedbacks are always welcome & let me know if you have any question.
 
