@@ -8,7 +8,7 @@ date:       2014-03-24 00:00:00
 due:        2014-05-14
 ---
 
-**Second Term Project - Due for In-Process Critique April 22 and Final Critique May 6**
+**Second Term Project - Due for In-Process Critique April 14 and Final Critique May 14**
 
 </br></br>
 **1  The arena** 'Live DataVis' is not a delineated area, instead we use the term to refer to a type of experience-- see [notes of Live DataVis] (http://saic.github.io/TheArtOfDataVisualization/post/2014/03/18/LiveDataVis_notes.html).  So we are looking for more of an argument in the proposal stage as to why this project idea is 'live'-- as discussed in class, we are thinking especially of simultaneous data feeds or the incorporation of analogues, but, please, surprise us.  
