@@ -188,3 +188,64 @@ http://www.wired.co.uk/magazine/archive/2012/11/start/the-all-seeing-home/viewga
 </br></br></br></br></br></br></br></br>
 
 
+http://www.flong.com/texts/lists/slit_scan/
+http://www.idd.tamabi.ac.jp/~mikami/artworks/
+http://www.artelectronicmedia.com/sites/artelectronicmedia.com/files/u84/Telematic%20Dreaming_%20Sermon.jpg
+http://www.vinecats.com/
+http://pablogarcia.org/
+
+O'meters
+http://www.youtube.com/watch?v=MLpvnnu66v8
+
+jbkillcount
+http://www.dailymail.co.uk/tvshowbiz/article-1283856/The-final-countdown-After-13-628-dead-years-playing-TVs-brutal-hero-Kiefer-Sutherland-says-goodbye-24.html
+http://24.wikia.com/wiki/On-screen_kills_by_Jack_Bauer
+
+// energy
+https://vimeo.com/25719373
+
+// human
+https://www.iraqbodycount.org/
+https://googledrive.com/host/0B2GQktu-wcTicEI5VUZaYnM1emM/
+
+http://www.akamai.com/html/technology/dataviz3.html
+http://tweetping.net/
+
+// Debt
+http://www.treasurydirect.gov/NP/debt/current
+http://content.time.com/time/business/article/0,8599,1850269,00.html
+http://www.usdebtclock.org/
+
+// Network
+http://www.digitalattackmap.com/
+
+http://design-io.com/projects/Skataviz/
+https://vimeo.com/53565956
+http://www.fitbit.com/
+
+http://www.ubiq.com/hypertext/weiser/calmtech/calmtech.htm
+http://www.speedtest.net/
+
+http://www.vacuumwoman.com/MediaWorks/Stock/stock.html
+https://www.google.com/search?q=stock+ticker
+http://inhabitat.com/power-aware-cord-by-static/
+http://node.9elements.com/
+http://www.p3international.com/products/p4400.html
+https://www.google.com/search?q=speedometer
+http://www.mnhs.org/exhibits/weather/weatherball.htm
+// water temp
+http://www.youtube.com/watch?v=WX9qTXWGZRo
+
+// Weather
+http://en.wikipedia.org/wiki/Weather_vane
+// mpls weather ball
+http://www.youtube.com/watch?v=0E5jcDt9tIM
+
+// Ambient 
+http://www.ambientdevices.com/
+http://www.ambientdevices.com/about/consumer-devices
+
+// Emotional viz meter
+http://lauren-mccarthy.com/usplus/
+
+
