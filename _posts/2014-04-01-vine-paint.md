@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vine Painting
+title:  "Vine Painting"
 date:   2014-04-01 00:00:00
 categories: post
 author: amonks
